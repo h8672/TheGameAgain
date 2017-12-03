@@ -1,6 +1,11 @@
 # TheGameAgain repo for new game
 
-| [Github](https://github.com/h8672/TheGameAgain/) | [Website](https://h8672.github.io/TheGameAgain/) |[Wiki](https://github.com/h8672/TheGameAgain/wiki) | [CodeBook](https://github.com/h8672/TheGameAgain/blob/master/CodeBook.md) |
+| [Github](https://github.com/h8672/TheGameAgain/) | [Website](https://h8672.github.io/TheGameAgain/) | [Wiki](https://github.com/h8672/TheGameAgain/wiki) | [CodeBook](/CodeBook.md) |
+
+- [About](#about-the-game)
+- [Beta logs](#project-information)
+- [Alpha logs](#milestones)
+- [Alpha logs](#changelog)
 
 ## About the game
 
@@ -32,16 +37,19 @@ The following milestones are not final and might change.
 | Release | Focus | Progress |
 |:---:|:---:|:---:|
 | Alpha | Core mechanics | - |
+| ---:| --- |:---:|
 | 0.0.0 | Base unity setup with project settings setup | - |
 | 0.0.1 | Input handling | - |
 | 0.0.2 | Dynamics | - |
 | Beta | Refining | - |
+| ---:| --- |:---:|
 | 0.1.0 | Alpha updated to beta | - |
 | 0.1.1 | Tests for mechanics | - |
 | 0.1.2 | UI, popups | - |
 | 0.1.2 | Testing | - |
 | 0.2.0 | Next phase... | - |
 | Release | These are mostly for reference... | - |
+| ---:| --- |:---:|
 | 1.0.0 | Target achieved | - |
 | 1.0.1 | Hotfix | - |
 | 1.0.2 | Fix with tests | - |
@@ -52,8 +60,33 @@ The following milestones are not final and might change.
 
 ## Changelog
 
-Release changelogs for each release in reversed list (newest changes on top, oldest on bottom).
+Release changelogs for each release logs in reversed list (newest changes on top, oldest on bottom).
 
-| Release | Log | Date |
-|:---:|:---:|:---:|
-| Alpha | - | - |
+- [Release logs](#release)
+- [Beta logs](#beta)
+- [Alpha logs](#alpha)
+
+***
+
+### Release
+
+***
+
+### Beta
+
+***
+
+### Alpha
+
+#### Version 0.0
+
+Milestone achieved: Project settings setup
+
+**Change Log**:
+
+- Explanation what changed or was added.
+- Player can now do this, with this and there and so on etc.
+
+***
+
+**Warning** This is the end of line!
