@@ -35,7 +35,7 @@ There's no release date at the moment. The progress may not be frequent either.
 The following milestones are not final and might change.
 
 | **Release** | **Focus** | **Progress** |
-|:---:|:--- | ---:|
+|:---:|:--- |:---:|
 | **Alpha** | Core mechanics | - |
 | 0.0.0 | Base unity setup with project settings setup | - |
 | 0.0.1 | Input handling | - |
