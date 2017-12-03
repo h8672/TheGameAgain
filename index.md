@@ -1,5 +1,7 @@
 # TheGameAgain repo for new game
 
+| [Github](https://github.com/h8672/TheGameAgain/) | [Website](https://h8672.github.io/TheGameAgain/) |[Wiki](https://github.com/h8672/TheGameAgain/wiki) | [CodeBook](https://github.com/h8672/TheGameAgain/blob/master/CodeBook.md) |
+
 ## About the game
 
 Wanted to make a game that can be played in PC in different OS and with a controller if prefer it over mouse and keyboard.
