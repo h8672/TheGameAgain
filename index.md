@@ -3,9 +3,9 @@
 | [Github](https://github.com/h8672/TheGameAgain/) | [Website](https://h8672.github.io/TheGameAgain/) | [Wiki](https://github.com/h8672/TheGameAgain/wiki) | [CodeBook](/CodeBook.md) |
 
 - [About](#about-the-game)
-- [Beta logs](#project-information)
-- [Alpha logs](#milestones)
-- [Alpha logs](#changelog)
+- [Project](#project-information)
+- [Milestones](#milestones)
+- [Change logs](#changelog)
 
 ## About the game
 
