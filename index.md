@@ -34,22 +34,19 @@ There's no release date at the moment. The progress may not be frequent either.
 
 The following milestones are not final and might change.
 
-| Release | Focus | Progress |
-|:---:|:---:|:---:|
-| Alpha | Core mechanics | - |
-| ---:| --- |:---:|
+| **Release** | **Focus** | **Progress** |
+|:---:|:--- | ---:|
+| **Alpha** | Core mechanics | - |
 | 0.0.0 | Base unity setup with project settings setup | - |
 | 0.0.1 | Input handling | - |
 | 0.0.2 | Dynamics | - |
-| Beta | Refining | - |
-| ---:| --- |:---:|
+| **Beta** | Refining | - |
 | 0.1.0 | Alpha updated to beta | - |
 | 0.1.1 | Tests for mechanics | - |
 | 0.1.2 | UI, popups | - |
 | 0.1.2 | Testing | - |
 | 0.2.0 | Next phase... | - |
-| Release | These are mostly for reference... | - |
-| ---:| --- |:---:|
+| **Release** | These are mostly for reference... | - |
 | 1.0.0 | Target achieved | - |
 | 1.0.1 | Hotfix | - |
 | 1.0.2 | Fix with tests | - |
