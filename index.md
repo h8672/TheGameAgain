@@ -1,6 +1,6 @@
 # TheGameAgain repo for new game
 
-| [Github](https://github.com/h8672/TheGameAgain/) | [Website](https://h8672.github.io/TheGameAgain/) | [Wiki](https://github.com/h8672/TheGameAgain/wiki) | [CodeBook](/CodeBook.md) |
+| [Github](https://github.com/h8672/TheGameAgain/) | [Website](https://h8672.github.io/TheGameAgain/) | [Wiki](https://github.com/h8672/TheGameAgain/wiki) | [CodeBook](/docs/CodeBook.md) |
 
 - [About](#about-the-game)
 - [Project](#project-information)
