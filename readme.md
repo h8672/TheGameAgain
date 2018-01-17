@@ -1,15 +1,15 @@
-#Readme
+# Readme
 
 This branch is for alpha build.
 
-#Roadmap
+# Roadmap
 
 - Project configuration
 - Input handling
 - Player profile
 - Dynamic objects
 
-##Milestones
+## Milestones
 
 - Project configuration
   - Unity Project configuration
