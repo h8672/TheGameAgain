@@ -36,10 +36,11 @@ The following milestones are not final and might change.
 
 | **Release** | **Focus** | **Progress** |
 |:---:|:--- |:---:|
-| **Alpha** | Core mechanics | - |
-| 0.0.0 | Base unity setup with project settings setup | - |
-| 0.0.1 | Input handling | - |
-| 0.0.2 | Dynamics | - |
+| **Alpha** | Core mechanics | Week 3 - 2018 |
+| 0.0.0 | Base unity setup with project settings setup | **Started** |
+| 0.0.1 | Input handling | **Started** |
+| 0.0.2 | Player profile | - |
+| 0.0.3 | Dynamics | - |
 | **Beta** | Refining | - |
 | 0.1.0 | Alpha updated to beta | - |
 | 0.1.1 | Tests for mechanics | - |
