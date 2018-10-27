@@ -31,9 +31,20 @@ When done with code, review the step, remember the drawbacks of your theory and 
 
 ## Coding
 
-While coding never delete a line that didn't work. Just comment it out.
+Time the coding with programs like [Toggl](https://toggl.com/).
 
-When done with code, it works correctly, duplicate the file and clear the additional comments out from the .
+~~While coding never delete a line that didn't work. Just comment it out.~~
+When updating a method, add a version tag to the old method, if the base functionality does change. If it doesn't work in some parts of the program, you can always go back in code or forward to that version of method.
 
-go back to documentation to do the log for time spent and create feedback about the things that didn't work as you thought. This is to learn the code.
+~~When done with code, it works correctly, duplicate the file and clear the additional comments out from the .~~
+When done with the code, if the code has something you couldn't think was useful before, add the meaningful code lines to your personal collection of interesting code lines.
 
+Go back to documentation to do the log for time spent and create feedback about the things that didn't work as you thought. This is to learn the code. If you forget it, you can always check the time from Toggl.
+
+
+**TODO git part**
+## Git usage
+
+### Default user
+
+### Advanced user
